@@ -1,0 +1,10 @@
+CPAN_AUTHOR=kubota
+inherit perl
+
+NAME="perl-Text-CharWidth"
+VERSION=0.04
+RELEASE=2
+CATEGORY="Perl"
+SUMMARY="Perl module for computing multi-byte character width"
+DESCRIPTION="This is a module to provide equivalent feature as wcwidth(3) and
+wcswidth(3).  This also provides mblen(3) equivalent subroutine."
